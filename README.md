@@ -13,9 +13,8 @@
             <li>Bootstrap</li>
             <li>Version Control (Git)</li>
           </ul>
-
           <h3>Contact Me:</h3>
-          <p>Email: uma.carpenter@example.com</p>
+          <p>Email: vishwakarmauma64@gmail.com </p>
           <p>LinkedIn: <a href="https://www.linkedin.com/in/uma-carpenter">uma-carpenter</a></p>
           <p>GitHub: <a href="https://github.com/umacarpenter">github.com/umacarpenter</a></p>
         </div>
