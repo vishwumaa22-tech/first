@@ -5,8 +5,7 @@
             I'm a passionate web developer focused on front-end technologies. 
             I specialize in building responsive and dynamic websites using modern web frameworks like React.
           </p>
-
-          <h3>Skills:</h3>
+     <h3>Skills:</h3>
           <ul>
             <li>React.js</li>
             <li>HTML & CSS</li>
