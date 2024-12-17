@@ -16,5 +16,5 @@
           <h3>Contact Me:</h3>
           <p>Email: vishwakarmauma64@gmail.com </p>
           <p>LinkedIn: <a href="https://www.linkedin.com/in/uma-carpenter">uma-carpenter</a></p>
-          <p>GitHub: <a href="https://github.com/umacarpenter">github.com/umacarpenter</a></p>
+          <p>GitHub: <a href="https://github.com/vishwumaa22-tech"</a></p>
         </div>
