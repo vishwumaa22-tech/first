@@ -9,10 +9,10 @@
           </p>
      <h3>Skills:</h3>
           <ul>
-            <li>React.js</li>
             <li>HTML & CSS</li>
-            <li>JavaScript</li>
             <li>Bootstrap</li>
+            <li>JavaScript</li>
+            <li>React.js</li>
             <li>Version Control (Git)</li>
           </ul>
           <h3>Contact Me:</h3>
