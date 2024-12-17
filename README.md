@@ -5,7 +5,7 @@
             I'm a passionate web developer focused on front-end technologies. 
             I specialize in building responsive and dynamic websites using modern web frameworks like React. 
             I'M excited to share my project and collaborate with others on gitHub.
-            Let's connect and build something amazing together <span>&#x1f355;</span>!
+            Let's connect and build something amazing together <span>&#x1f91d;</span>!
           </p>
      <h3>Skills:</h3>
           <ul>
