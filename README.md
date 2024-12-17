@@ -1,10 +1,10 @@
 #selfintro
-<div className="col-md-6">
+<div>
           <h1>Hi, I'm Uma Carpenter</h1>
           <p>
             I'm a passionate web developer focused on front-end technologies. 
             I specialize in building responsive and dynamic websites using modern web frameworks like React. 
-            I'M excited to share my project and collaborate with others on gitHub.
+            I'm excited to share my project and collaborate with others on gitHub.
             Let's connect and build something amazing together <span>&#x1f91d;</span>!
           </p>
      <h3>Skills:</h3>
