@@ -16,7 +16,7 @@
             <li>Version Control (Git)</li>
           </ul>
           <h3>Contact Me:</h3>
-          <p>Email: <a href="vishwakarmauma64@gmail.com">vishwakarmauma64@gmail.com </p>
+          <p>Email: <a href="vishwakarmaumaa64@gmail.com">vishwakarmaumaa64@gmail.com </p>
           <p>LinkedIn: <a href="https://www.linkedin.com/in/uma-carpenter">uma-carpenter</a></p>
           <p>GitHub: <a href="https://github.com/vishwumaa22-tech"</a>vishwumaa22-tech</p>
         </div>
