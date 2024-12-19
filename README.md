@@ -6,7 +6,7 @@
             I'm excited to share my project and collaborate with others on gitHub.
             Let's connect and build something amazing together <span>&#x1f91d;</span>!
           </p>
-     <h3>Skills:</h3>
+          <h3>Skills:</h3>
           <ul>
             <li>HTML & CSS</li>
             <li>Bootstrap</li>
