@@ -14,7 +14,7 @@
             <li>React.js</li>
             <li>Version Control (Git)</li>
           </ul>
-          <h3>Contact Me:</h3>
+          <h3>Contact Me: 7440620769</h3>
           <p>Email: <a href="mailto:vishwakarmauma64@gmail.com">vishwakarmaumaa64@gmail.com </p>
           <p>LinkedIn: <a href="https://linkedin.com/in/uma-vishwakarma-a35b39341">uma-carpenter</a></p>
           <p>GitHub: <a href="https://github.com/vishwumaa22-tech"</a>vishwumaa22-tech</p>
